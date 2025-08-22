@@ -9,6 +9,9 @@
 <p align="left">
   <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-WIP-yellow?style=flat" /></a>
 </p>
+<!--
+🚧 WIP: section under construction. 🚧
+-->
 
 <!-- Badge: Done
 <p align="left">
@@ -93,7 +96,11 @@ Available at '<https://app.aluracursos.com/certificate/79c30570-2e25-4f4a-8fbb-9
 -->
 # 🤝 Contributors.
 
-🚧 WIP: under construction. 🚧
+<a href="https://github.com/a1t0ghb/courses-oracle_one-html_y_css_II-d250822/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=a1t0ghb/courses-oracle_one-html_y_css_II-d250822" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 <!-- Authors table structure
 - From repo: 'https://github.com/camilafernanda/GlicoCare/blob/main/README.md?plain=1'.
