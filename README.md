@@ -5,16 +5,16 @@
 - HTML <a> tag not redirecting: 'https://stackoverflow.com/questions/8260546/make-a-html-link-that-does-nothing-literally-nothing/8260561#8260561', 'https://www.geeksforgeeks.org/html/how-to-create-html-link-that-does-not-follow-the-link/'.
 -->
 
-<!-- Badge: WIP
+<!-- Badge: WIP -->
 <p align="left">
   <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-WIP-yellow?style=flat" /></a>
 </p>
--->
 
-<!-- Badge: Done -->
+<!-- Badge: Done
 <p align="left">
   <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-DONE-green?style=flat" /></a>
 </p>
+-->
 
 <!-- README structure followed:
 - 'https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github/'.
@@ -55,7 +55,7 @@ Final delivery of the 8th course: '[HTML y CSS: Clases, Posicionamiento y Flexbo
 The course covered topics such as:
 
 - Understanding classes and selectors, and how to define and use them.
-- Understanding underlying concpet of the 'box model' and it's layout distribution in 4 main elements: **margin**, **border**, **padding**, and the content itself.
+- Understanding underlying concept of the 'box model' and it's layout distribution in 4 main elements: **margin**, **border**, **padding**, and the content itself.
 - Being aware of '[reset CSS](https://meyerweb.com/eric/tools/css/reset/)' as way of managing consistency accross different browsers.
 - Declaring classes and using ['flexbox'es](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) as containers for managing positioning of elements.
 - Getting to know font resources, such as '[Google Fonts](https://fonts.google.com/)'.
