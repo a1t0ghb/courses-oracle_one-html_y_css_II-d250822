@@ -7,12 +7,12 @@
 
 <!-- Badge: WIP -->
 <p align="left">
-  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-WIP-yellow?style=flat"/></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-WIP-yellow?style=flat" /></a>
 </p>
 
 <!-- Badge: Done
 <p align="left">
-  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-DONE-green?style=flat"/></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-DONE-green?style=flat" /></a>
 </p>
 -->
 
