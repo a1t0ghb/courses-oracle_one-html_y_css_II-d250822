@@ -42,8 +42,11 @@ Image width for GitHub READMEs:
 - 'https://gist.github.com/uupaa/f77d2bcf4dc7a294d109'.
 -->
 <p align="center">
-  <img src="rsrcs/media/img-readme_frontpage_media.png" width="1200" />
+    <img src="./rsrcs/media/img-readme_frontpage_media.png" width="1200" />
 </p>
+<!-- <p align="center">
+    <img src="./rsrcs/media/img-readme_frontpage_gif.gif" width="1200" />
+</p> -->
 
 Final delivery of the 8th course: '[HTML y CSS: Clases, Posicionamiento y Flexbox](https://app.aluracursos.com/course/html-css-clases-posicionamiento-flexbox)', from module (a.k.a. 'formación' in spanish) '[Principiante en Programación G9 - ONE](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo9-one)', of [Alura LATAM](https://www.aluracursos.com/). <b>Part of [ORACLE Next Education (ONE)](https://www.oracle.com/co/education/oracle-next-education/) education program, in LATAM</b>.
 
