@@ -1,6 +1,10 @@
 /* IMPORTS. */
 /* IMPORTS - FONTS. */
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+/* Google Fonts:
+- 'Krona One': 'https://fonts.google.com/specimen/Krona+One'.
+- 'Montserrat': 'https://fonts.google.com/specimen/Montserrat'.
+*/
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* Universal changes, for all tags / elements / classes. */
 * {
